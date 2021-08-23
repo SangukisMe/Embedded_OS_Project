@@ -5,7 +5,7 @@
 
 <br/>
 
-# Develop
+# Development Environment
 
 **OS :** Ubuntu 14.04 LTS (VMware)
 
